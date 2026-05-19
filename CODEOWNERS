@@ -1,5 +1,5 @@
 # CODEOWNERS
-# Primary owner is responsible for reviewing all PRs.
-# Fallback team (@makematterco/codeowners-fallback) can approve when primary is unavailable.
+# Primary owner reviews all PRs.
+# @makematterco/codeowners-fallback can approve when primary is unavailable.
 
 * @mumoshu @makematterco/codeowners-fallback
